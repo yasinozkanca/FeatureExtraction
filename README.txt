@@ -1,0 +1,3 @@
+This code is made for Windows!!! If you want to use it on Ubuntu you just need to change the system call in the function to Ubuntu syntax. To use this OpenSmile feature extraction function, you have to call the function with the audio files' path using the get_file_list function in io_util.py. Then you need to call it within a script like an example I provided in parkinsonGemaps.py. 
+
+On system call in openSmileUtil.py, you are giving the OpenSmile's address and the config you are going to use. You have to download the OpenSmile to use it. 
